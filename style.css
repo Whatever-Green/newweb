@@ -4,10 +4,10 @@ body {
     /*Old Colour: 1a222c*/
 }
 @font-face {
-   font-family: OpenDyslexic-Regular; src: url(/Fonts/OpenDyslexic-Regular.otf);
+   font-family: OpenDyslexic-Regular; src: url(Fonts/OpenDyslexic-Regular.otf);
 }
 @font-face {
-  font-family: Retro; src: url(/Fonts/CoolThreePixels-Rn6e.ttf);
+  font-family: Retro; src: url(Fonts/CoolThreePixels-Rn6e.ttf);
 }
 
 
