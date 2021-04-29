@@ -1,6 +1,6 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 @font-face {
-	font-family: Retro; src: url(../assets/fonts/OpenDyslexic-Regular.ttf);
+	font-family: Retro; src: url(OpenDyslexic-Regular.ttf);
   }
   
 body {
@@ -88,3 +88,15 @@ body {
 	background-color: #ddd;
 	color: black;
   }
+
+.Links {
+	text-align: center
+}
+
+.Articles {
+	text-align: center
+}
+
+p, h1, h2 {
+	color: #fff
+}
